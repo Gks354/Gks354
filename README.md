@@ -15,8 +15,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- [Sistema de Controle de Estoque](https://github.com/usuario/projeto1)  
-- [Aplicativo Lista de Tarefas](https://github.com/usuario/projeto2)  
+- [Sistema de Controle de Estoque](https://github.com/Gks354/gerenciamento-de-estoque)
 
 ---
 

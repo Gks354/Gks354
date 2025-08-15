@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo 👋
 
-<!--
-**Gks354/Gks354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Foco em **JavaScript, Python e Desenvolvimento Web**  
+🚀 Apaixonado por tecnologia, inovação e acessibilidade  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que uso no dia a dia
+- **Front-end:** HTML, CSS, JavaScript, React  
+- **Back-end:** Node.js, Python  
+- **Banco de Dados:** MySQL  
+- **Ferramentas:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Projetos em Destaque
+- [Sistema de Controle de Estoque](https://github.com/usuario/projeto1)  
+- [Aplicativo Lista de Tarefas](https://github.com/usuario/projeto2)  
+
+---
+
+💬 **Vamos nos conectar?**  
+[LinkedIn](https://www.linkedin.com/in/gustavo-de-lima-gon%C3%A7alves-43648a320) | [Portfólio](https://github.com/seu-usuario)

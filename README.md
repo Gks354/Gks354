@@ -20,4 +20,4 @@
 ---
 
 💬 **Vamos nos conectar?**  
-[LinkedIn](https://www.linkedin.com/in/gustavo-de-lima-gon%C3%A7alves-43648a320) | [Portfólio](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/gustavo-de-lima-gon%C3%A7alves-43648a320) | [Portfólio](https://github.com/Gks354)
